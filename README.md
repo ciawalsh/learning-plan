@@ -4,7 +4,7 @@ Learning Plan
 Areas that need improvement
 ----------
 
-??
+* OOD in JavaScript.
 
 Challenges
 ----------
